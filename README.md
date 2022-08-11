@@ -1,6 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:3090C7,100:82CAFF&fontColor=E5E4E2&animation=fadeIn&height=200&section=header&text=KyungJun%20Boo&fontSize=60&rotate=13&fontAlignY=30&fontAlign=70)
 
-### Skills
+## Introducation
+
+저는 적극적으로 나서길 좋아하는 능동적인 개발자입니다.
+
+근본적인 문제 해결과 일반화된 처리 방식을 지향합니다.
+
+가독성, 재사용성, 확장성을 고려한 클린 코드 작성에 대해 고민하고 지속해서 리팩토링합니다.
+
+## Skills
+
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
