@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&fontColor=E5E4E2&animation=twinkling&height=200&section=header&text=KyungJun%20Boo&fontSize=70)
-
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:3090C7,100:82CAFF&fontColor=E5E4E2&animation=twinkling&height=200&section=header&text=KyungJun%20Boo&fontSize=70)
 
 <!--
 **trevor1107/trevor1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
