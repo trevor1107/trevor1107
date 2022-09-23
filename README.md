@@ -1,12 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:3090C7,100:82CAFF&fontColor=F5F5F5&animation=fadeIn&height=200&section=header&text=KyungJun%20Boo&fontSize=60&rotate=13&fontAlignY=30&fontAlign=70)
 
-# 👋 안녕하세요. 개방적인 개발자 부경준입니다.
-
-저는 좋은 개발자라고 생각하는 타인을 배려하는 클린 코드를 작성하는 개발자
-
-그리고 모든 가능성을 열어두고 다양한 방법을 시도하는 개방적인 개발자를 목표로 하고있습니다.
-
-</br>
+# 👋 안녕하세요! 개방적인 개발자 부경준입니다
 
 ## Introducation
 
@@ -41,7 +35,7 @@
 
 </br>
 
-## 저는 요즘 개발관련 활동으로 ___을 하고있습니다. (2022-09)
+## 저는 요즘 개발관련 활동으로 ___을 하고있습니다 (2022-09)
 
 모여서 각자 프로젝트하기 ‘모각프’ 스터디 리더로 활동하면서 Typescript + React + Nest.js 프로젝트 ‘작은 나의 도서관’ 프로젝트를 진행하고 있습니다.
 
