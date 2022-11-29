@@ -38,7 +38,8 @@
 
 블록체인 회사에서 프론트엔드 개발자로 NFT 플랫폼을 개발하고 있습니다.
 
-Typescript + React + Redux-toolkit + Nest.js 기술 성장을 위해 도서 검색 및 기록, 감상평 서비스 ‘작은 나의 도서관’ 프로젝트를 진행하고 있습니다.
+Typescript + React + Redux-toolkit + Nest.js 기술 성장을 위해 </br>
+도서 검색 및 기록, 감상평 서비스 ‘작은 나의 도서관’ 프로젝트를 진행하고 있습니다.
 
 </br>
 
