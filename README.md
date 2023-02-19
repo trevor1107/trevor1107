@@ -8,7 +8,14 @@
 
 지속해서 코드를 개선하는 개발자로 평가 받아왔습니다.
 
-모든 가능성을 열어두고 다양한 방법을 시도하는 개방적인 개발자를 목표로 하고 있습니다.
+아키텍처, 클린 코드를 고민하고 개선하는 것을 좋아합니다.
+
+개방적인 개발자를 목표로 하고 있습니다.
+
+개방적인 개발자란 
+1. 상대방의 의견을 존중하고 수용하려는 태도!
+2. 가능성을 열어두고 다양한 방법을 시도하는 도전정신!
+3. 
 
 </br>
 
@@ -46,19 +53,7 @@
 
 </br>
 
-### 저는 요즘 \___을 하고 있습니다 (2023-02)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trevor1107&show_icons=true&theme=slateorange)
+&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trevor1107&layout=compact&theme=slateorange)
 
-리액트 기술 향상을 위해 “진유림 - 만들면서 배우는 리액트 : 기초” 인프런 강의를 학습하고 있습니다.
 
-</br>
-
-### \___ 같은 유형의 사람과 같이 일하고 싶어요
-
-- 문제에 대한 잘잘못을 따지지 않고 해결하는 방향에 집중하고 소통하는 사람
-- 다른 사람의 생각이 자기 생각과 ‘틀리다’ 보다는 ‘다르다’라고 인식할 수 있는 사람
-- 잘못이나 모르는 것에 대해 스스로 인정하고 개선하려는 사람
-- 본인의 일을 책임감 있게 해내고 다른 사람에게 떠넘기지 않는 사람
-
-</br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trevor1107&theme=vue-dark&show_icons=true)
