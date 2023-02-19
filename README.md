@@ -54,6 +54,6 @@
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trevor1107&show_icons=true&theme=slateorange)
-&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trevor1107&layout=compact&theme=slateorange)
+&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trevor1107&layout=compact&theme=slateorange&langs_count=8)
 
 
