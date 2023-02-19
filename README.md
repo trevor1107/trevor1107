@@ -58,3 +58,7 @@
 - 다른 사람의 생각이 자기 생각과 ‘틀리다’ 보다는 ‘다르다’라고 인식할 수 있는 사람
 - 잘못이나 모르는 것에 대해 스스로 인정하고 개선하려는 사람
 - 본인의 일을 책임감 있게 해내고 다른 사람에게 떠넘기지 않는 사람
+
+</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trevor1107&theme=vue-dark&show_icons=true)
