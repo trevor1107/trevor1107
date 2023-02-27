@@ -19,7 +19,7 @@
 
 </br>
 
-### Languages
+### Progamming Languages
 
 ![js](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![ts](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
