@@ -53,4 +53,4 @@
 
 </br>
 
-<img height=165px src="https://github-readme-stats.vercel.app/api?username=trevor1107&show_icons=true&theme=dark&card_width=360" alt="KyunJun Boo's GitHub stats"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trevor1107&layout=compact&theme=dark&langs_count=6&card_width=310&custom_title=KyungJun%20Boo's%20Most%20Used%20Languages&card_width=360)
+<img height=165px src="https://github-readme-stats.vercel.app/api?username=trevor1107&show_icons=true&theme=dark&card_width=360" alt="KyunJun Boo's GitHub stats"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trevor1107&layout=compact&theme=dark&langs_count=6&card_width=310&card_width=360)
