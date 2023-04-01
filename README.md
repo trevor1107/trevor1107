@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:3090C7,100:82CAFF&fontColor=F5F5F5&animation=fadeIn&height=200&section=header&text=KyungJun%20Boo&fontSize=60&rotate=13&fontAlignY=30&fontAlign=70)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrevor1107%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## 👋 안녕하세요! 개방적인 개발자, 부경준입니다
 
 ### Introducation
@@ -16,8 +18,6 @@
 1. 상대방의 의견을 존중하고 수용하려는 태도!
 2. 가능성을 열어두고 다양한 방법을 시도하는 유연함!
 3. 새로운 배움에 대해 두려움 없는 도전정신!
-
-</br>
 
 ### Progamming Languages
 
