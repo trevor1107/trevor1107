@@ -25,22 +25,22 @@
 ![ts](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![html5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![c](https://img.shields.io/badge/C-2d72a6?style=flat-square&logo=C&logoColor=white)
-![c++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white)
 
-
-### Frameworks & Libraries
+### front-end
 
 ![react](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![angular](https://img.shields.io/badge/angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+### back-end
+
 ![node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![socket.io](https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
+![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### DevOps
 
-![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![oracle_cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
