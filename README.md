@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:3090C7,100:82CAFF&fontColor=F5F5F5&animation=fadeIn&height=200&section=header&text=KyungJun%20Boo&fontSize=60&rotate=13&fontAlignY=30&fontAlign=70)
                   
-## 👋 안녕하세요! 개방적인 개발자, 부경준입니다
+## 👋 안녕하세요! 비즈니스 가치를 위한 문제해결에 관심 있는 개발자 부경준 입니다
 
 ### Introducation
 
