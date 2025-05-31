@@ -1,23 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:3090C7,100:82CAFF&fontColor=F5F5F5&animation=fadeIn&height=200&section=header&text=KyungJun%20Boo&fontSize=60&rotate=13&fontAlignY=30&fontAlign=70)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrevor1107%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
                   
 ## 👋 안녕하세요! 개방적인 개발자, 부경준입니다
 
 ### Introducation
 
-저는 **적극적**이고 **능동적인** 사람입니다.
-
-**지속해서 코드를 개선하는 개발자**로 평가 받아왔습니다.
-
-**아키텍처, 클린 코드**를 고민하고 개선하는 것을 좋아합니다.
-
-**개방적인 개발자**를 목표로 하고 있습니다.
-
-개방적인 개발자란?
-1. 상대방의 의견을 존중하고 수용하려는 태도!
-2. 가능성을 열어두고 다양한 방법을 시도하는 유연함!
-3. 새로운 배움에 대해 두려움 없는 도전정신!
+- **적극적이고 능동적인 사람**입니다.
+- **지속해서 코드를 개선하는 개발자**로 평가 받아왔습니다.
+- **비즈니스 가치를 위한 문제해결에 관심 있는 개발자** 입니다.
+- **반복 작업을 줄이는 것에 고민하는 개발자** 입니다.
 
 ### Progamming Languages
 
@@ -39,7 +29,6 @@
 
 ### DevOps
 
-![oracle_cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ### Tools
