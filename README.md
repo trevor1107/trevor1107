@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:3090C7,100:82CAFF&fontColor=F5F5F5&animation=fadeIn&height=200&section=header&text=KyungJun%20Boo&fontSize=60&rotate=13&fontAlignY=30&fontAlign=70)
                   
-## 👋 안녕하세요! 비즈니스 가치를 위한 문제해결에 관심 있는 개발자 부경준 입니다
+## 👋 안녕하세요! 가치있는 문제해결을 지향하는 개발자 부경준입니다.
 
 ### Introducation
 
 - **적극적이고 능동적인 사람**입니다.
 - **지속해서 코드를 개선하는 개발자**로 평가 받아왔습니다.
-- **비즈니스 가치를 위한 문제해결에 관심 있는 개발자** 입니다.
 - **반복 작업을 줄이는 것에 고민하는 개발자** 입니다.
 
 ### Progamming Languages
