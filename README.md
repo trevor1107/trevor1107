@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:3090C7,100:82CAFF&fontColor=F5F5F5&animation=fadeIn&height=200&section=header&text=KyungJun%20Boo&fontSize=60&rotate=13&fontAlignY=30&fontAlign=70)
                   
-## 👋 안녕하세요! 가치있는 문제해결을 지향하는 개발자 부경준입니다.
+## 👋 안녕하세요! 누군가에게 도움이 되는 개발을 하고 싶은 개발자, 부경준입니다.
 
 ### Introducation
 
-- **적극적이고 능동적인 사람**입니다.
-- **지속해서 코드를 개선하는 개발자**로 평가 받아왔습니다.
-- **반복 작업을 줄이는 것에 고민하는 개발자** 입니다.
+개발 이외의 일에서도 항상 능동적이고 적극적인 태도로 문제를 해결해 왔고, 개발자로서도 그 태도를 이어가고 있습니다.
+
+반복되는 작업에 대해 자동화할 수 있는 방법을 고민하며, 더 나은 개발 환경을 만드는 데 관심이 있습니다.
+
+아직은 배우는 과정에 있지만, 실질적인 도움이 되는 제품을 만들기 위해 꾸준히 성장하고 있습니다.
 
 ### Progamming Languages
 
